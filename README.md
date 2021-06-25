@@ -1,7 +1,5 @@
 # System-Administration-Tool
 
-This is my pretty bad sys admin tool.
-Im still working on it
 
 ## Features:
 - [x] Get and Upload custom commands for files
