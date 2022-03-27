@@ -3,7 +3,7 @@
 
 ## Features:
 - [x] Get and Upload custom commands for files
-- [x] All Terminal (win/lin) commands
+- [x] All Terminal (win/linux) commands
 - [x] Command logs file 
 
 ### TODO:
@@ -15,17 +15,18 @@
 First start admin.py with command
 
 For linux:
-`python3 admin.py`
+python3 admin.py
 
 For windows:
-`python -m admin.py`
+python -m admin.py
+
 -------------------
 And then client.py
 
 For linux:
-`python3 client.py`
-
+python3 client.py
 For windows:
-`python -m client.py`
+python -m client.py
+
 ------------------------
-More instructions are in admin.py and client.py
+<h2>More instructions are in admin.py and client.py </h2>
