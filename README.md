@@ -15,18 +15,18 @@
 First start admin.py with command
 
 For linux:
-python3 admin.py
+`python3 admin.py`
 
 For windows:
-python -m admin.py
+`python -m admin.py`
 
 -------------------
 And then client.py
 
 For linux:
-python3 client.py
+`python3 client.py`
 For windows:
-python -m client.py
+`python -m client.py`
 
 ------------------------
 <h2>More instructions are in admin.py and client.py </h2>
